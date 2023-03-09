@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HW_classes</string>
+
+    <string name="button_down">Погружение</string>
+    <string name="button_up">Всплытие</string>
+    <string name="button_repair">Ремонт лодки</string>
+    <string name="button_update">Ремонт мотора</string>
+    <string name="button_relax">Отдых экипажа</string>
+    <string name="button_dropCargo">Сброс груза</string>
+
+
+
+</resources>
